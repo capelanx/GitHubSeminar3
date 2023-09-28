@@ -34,3 +34,8 @@
 **Встявляем изображение** 
  - в этой ветке добвалем картинку, что бы потом смержить с мастером
  
+ **Добавляем ссылки**
+
+Справочные материалы по Markdown
+https://learn.microsoft.com/ru-ru/contribute/content/how-to-write-links
+
